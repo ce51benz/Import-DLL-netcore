@@ -13,3 +13,5 @@ Then go to the bin/release/netstandard and use the following command to run
     
     dotnet capp1.dll
     
+> Please copy `trymodule.dll` file into the same directory of capp1.dll before run above command.
+
